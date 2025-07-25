@@ -21,21 +21,41 @@ I enjoy solving complex problems and delivering solutions that make life easier.
 
 ## 🔨 Projects
 
-### [Ledger App](https://play.google.com/store/apps/details?id=com.divyam.duecred) 
-> *Flutter, Firebase*  
-An Android app for personal financial management and tracking, leveraging Firestore and Firebase Authentication.
+### [Ledger App](https://play.google.com/store/apps/details?id=com.divyam.duecred)  
+**Flutter, Firebase**  
+An Android app for personal financial management and expense tracking. It leverages Firebase Authentication for secure user login and Firestore for real-time data storage and analytics.
 
-### IoT Smart Door Lock
-> *ESP32, Flutter*  
-Built a smart door lock enabling secure RFID-based access and remote control via Firebase.
+---
 
-### Hand Sign Detection
-> *Python, Machine Learning*  
-A gesture-to-text translator for assisting speech-impaired individuals, built using a Random Forest classifier.
+### 🔐 IoT Smart Door Lock  
+**ESP32, Flutter**  
+A smart door lock system enabling secure access via RFID cards and remote unlocking through a Flutter mobile app, all synced in real-time with Firebase. Designed for enhanced home automation and security.
 
-### Personal NAS Server
-> *Raspberry Pi, Samba, Python*  
-Low-cost NAS solution for personal cloud storage with remote access via dynamic DNS.
+---
+
+### ✋ Signfinity – Real-Time Hand Gesture Recognition  
+**Python, MediaPipe, scikit-learn, OpenCV**  
+A real-time webcam-based gesture recognition system that detects five hand signs: "Hello", "Yes", "No", "Thanks", and "Sorry". Uses MediaPipe for hand landmark tracking, PCA for dimensionality reduction, and a Random Forest Classifier for robust classification.
+
+---
+
+### 📝 MarkMe – Automated Attendance System  
+**Python, OCR, Tkinter, Tesseract**  
+An offline desktop application that automates student attendance from Zoom screenshots using Tesseract OCR. Features include a Tkinter GUI, batch image processing, and exportable monthly attendance reports in CSV format.
+
+---
+
+### 💉 VaccinePing – COVID-19 Slot Notifier  
+**Python, CoWIN API, WhatsApp, pyttsx3**  
+A real-time vaccine slot alert system that uses the CoWIN API to check availability by pincode and notifies users via WhatsApp Web and voice announcements using `pyttsx3`. Users can customize alerts by age, pincode, and vaccine type. Designed to help book slots faster during India's COVID-19 vaccine rollout.
+
+---
+
+### 🗄️ Personal NAS Server  
+**Raspberry Pi, Samba, Python**  
+A low-cost home cloud storage solution using Raspberry Pi. Supports remote file access via Samba and dynamic DNS. Ideal for personal backups and remote file sharing across devices.
+
+
 
 ---
 

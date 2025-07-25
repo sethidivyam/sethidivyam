@@ -21,7 +21,7 @@ I enjoy solving complex problems and delivering solutions that make life easier.
 
 ## 🔨 Projects
 
-### [Ledger App](https://play.google.com/store/apps/details?id=com.divyam.duecred)  
+### [DueCred - Ledger App](https://play.google.com/store/apps/details?id=com.divyam.duecred)  
 **Flutter, Firebase**  
 An Android app for personal financial management and expense tracking. It leverages Firebase Authentication for secure user login and Firestore for real-time data storage and analytics.
 

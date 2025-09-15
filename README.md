@@ -82,7 +82,8 @@ A low-cost home cloud storage solution using Raspberry Pi. Supports remote file 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sethidivyam)  
-📧 divyamsethi18@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:divyamsethi18@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sethidivyam)
 
 ---
 

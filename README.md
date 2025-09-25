@@ -87,5 +87,6 @@ A low-cost home cloud storage solution using Raspberry Pi. Supports remote file 
 
 Thanks for stopping by! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sethidivyam&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sethidivyam)](https://git.io/streak-stats)
+
 

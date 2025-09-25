@@ -55,8 +55,6 @@ A real-time vaccine slot alert system that uses the CoWIN API to check availabil
 **Raspberry Pi, Samba, Python**  
 A low-cost home cloud storage solution using Raspberry Pi. Supports remote file access via Samba and dynamic DNS. Ideal for personal backups and remote file sharing across devices.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sethidivyam&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -88,3 +86,6 @@ A low-cost home cloud storage solution using Raspberry Pi. Supports remote file 
 ---
 
 Thanks for stopping by! 🚀
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sethidivyam&theme=dark&hide_border=true)](https://git.io/streak-stats)
+

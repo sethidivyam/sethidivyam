@@ -89,4 +89,6 @@ Thanks for stopping by! 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sethidivyam)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sethidivyam?theme=dark&font=Baloo%202&ext=heatmap)
+
 

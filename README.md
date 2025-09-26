@@ -64,6 +64,27 @@ A low-cost home cloud storage solution using Raspberry Pi. Supports remote file 
 - **Databases:** MySQL, Firebase Firestore
 - **Concepts:** OOP, Operating Systems, Data Structures & Algorithms
 - **Other:** Git, Linux
+- 
+### 🛠️ Technologies & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
+### 🛠️ Technologies & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 
 ---
 
@@ -86,6 +107,7 @@ A low-cost home cloud storage solution using Raspberry Pi. Supports remote file 
 ---
 
 Thanks for stopping by! 🚀
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sethidivyam)](https://git.io/streak-stats)
 

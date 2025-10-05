@@ -20,49 +20,6 @@ My projects reflect my enthusiasm for **full-stack development** and **emerging 
 
 ---
 
-## 🔨 Featured Projects  
-
-### 📱 [DueCred - Ledger App](https://play.google.com/store/apps/details?id=com.divyam.duecred)  
-**Tech:** Flutter, Firebase  
-> An Android app for financial management and expense tracking.  
-> Uses Firebase Authentication for secure login and Firestore for real-time data storage.  
-
----
-
-### 🔐 IoT Smart Door Lock  
-**Tech:** ESP32, Flutter  
-> A smart door lock with RFID card access and mobile unlocking via Flutter app.  
-> Real-time synchronization with Firebase for **home automation and security**.  
-
----
-
-### ✋ Signfinity – Real-Time Hand Gesture Recognition  
-**Tech:** Python, MediaPipe, scikit-learn, OpenCV  
-> Detects hand gestures like "Hello", "Yes", "No", "Thanks", "Sorry".  
-> Uses **MediaPipe + PCA + Random Forest Classifier** for robust real-time recognition.  
-
----
-
-### 📝 MarkMe – Automated Attendance System  
-**Tech:** Python, OCR, Tkinter, Tesseract  
-> Automates attendance from Zoom screenshots with Tesseract OCR.  
-> Exports reports to **CSV** and provides a user-friendly **Tkinter GUI**.  
-
----
-
-### 💉 VaccinePing – COVID-19 Slot Notifier  
-**Tech:** Python, CoWIN API, WhatsApp, pyttsx3  
-> Real-time slot alerts using the **CoWIN API**.  
-> Notifications via WhatsApp Web + voice announcements with `pyttsx3`.  
-
----
-
-### 🗄️ Personal NAS Server  
-**Tech:** Raspberry Pi, Samba, Python  
-> Low-cost home cloud solution with **remote file access** and **dynamic DNS**.  
-> Ideal for backups and file sharing.  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -106,15 +63,6 @@ My projects reflect my enthusiasm for **full-stack development** and **emerging 
 
 ---
 
-## 💼 Experience  
-
-**Software Developer Intern** — *J.D. Tytler School*  
-📍 Delhi, India | ⏳ Oct 2023 – Nov 2023  
-
-- Automated **report card generation** with Excel + PDF integration.  
-- Reduced manual work by **70%**, boosting efficiency for admin staff.  
-
----
 
 ## 📊 Stats & Profiles  
 

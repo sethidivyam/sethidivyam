@@ -8,13 +8,6 @@
 
 ## 🚀 About Me  
 
-As an innovative B.Tech student, I have hands-on experience in:  
-
-- **Mobile App Development** (Flutter, Dart)  
-- **Backend Systems** (Firebase, MySQL, Python)  
-- **IoT Solutions** (ESP32, Raspberry Pi)  
-- **Machine Learning** (Python, Random Forest Classifiers)  
-
 I enjoy solving complex problems and delivering solutions that make life easier.  
 My projects reflect my enthusiasm for **full-stack development** and **emerging technologies**.  
 

@@ -1,82 +1,119 @@
-# 👋 Hi, I'm Divyam Sethi  
+<div align="center">
 
-🌍 **Location:** Delhi, India  
-🎓 **B.Tech Student (2022–2026)** — Guru Gobind Singh Indraprastha University  
-💻 **Software Developer** passionate about building impactful applications in mobile, backend, and IoT.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyam%20Sethi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%7C%20IoT%20Engineer%20%7C%7C%20App%20Craftsman&descAlignY=58&descSize=18&animation=twinkling" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+production-grade+Flutter+apps;BLE+%7C+REST+APIs+%7C+Firebase+%7C+IoT;Series-C+startup+intern+%40+Atomberg;Turning+ideas+into+real+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🚀 About Me  
-
-I enjoy solving complex problems and delivering solutions that make life easier.  
-My projects reflect my enthusiasm for **full-stack development** and **emerging technologies**.  
+</div>
 
 ---
 
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me
 
-### 📝 Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/> Dart &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> C++ &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> C  
-</p>
+- 🎓 **B.Tech CSE** @ ADGITM, GGSIPU *(2022–2026)*
+- 💼 **App Developer Intern** @ Atomberg Technologies *(Series-C)*
+- 📱 Building Flutter apps that ship to **real users in production**
+- 🔌 IoT enthusiast — smart locks, robots, embedded systems
+- 🏆 **Top 10 @ AtomQuest 2025** out of 1,600+ teams nationwide
+- 📫 Reach me at **divyamsethi18@gmail.com**
+- ⚡ Passionate about reliable systems that work in the real world
 
-### 🧩 Frameworks & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> Flutter &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> Firebase &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="30"/> Arduino &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" height="30"/> ESP32 &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/> Raspberry Pi &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/> Android Studio &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> VS Code &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40"/> Xcode  
-</p>
-
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Firestore-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" height="30"/> Firebase Firestore  
-</p>
-
-### 📘 Concepts  
-- Object-Oriented Programming (OOP)  
-- Operating Systems (OS)  
-- Data Structures & Algorithms (DSA)  
-
-### 🔧 Other  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux  
-</p>
+<br clear="right"/>
 
 ---
 
+## 🌐 Connect With Me
 
-## 📊 Stats & Profiles  
+<div align="left">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sethidivyam&theme=dark" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/sethidivyam?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sethidivyam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyamsethi18@gmail.com)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Divyam+Sethi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sethidivyam)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sethidivyam&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+</div>
 
 ---
 
-## 📫 Connect with Me  
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sethidivyam)  
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:divyamsethi18@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sethidivyam)  
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**🔥 Backend & Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔌 IoT & Embedded**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+**⚙️ Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to connect and collaborate 🚀*
+## 🏆 Achievements
+
+| &nbsp; | Achievement |
+|---|---|
+| 🥇 | **Top 10** @ AtomQuest 2025 by Atomberg — 1,600+ teams nationwide |
+| 🥈 | **Top 20** @ Hack for Impact by IIIT-Delhi *(IoT category)* |
+| 🏅 | **Finalist** @ Build Fest '25 Global Hackathon *(FlutterFlow, Google Cloud)* |
+| 📱 | Play Store app with **active installs and real users** |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sethidivyam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethidivyam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sethidivyam&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/sethidivyam?theme=dark&font=Fira+Code&ext=heatmap" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sethidivyam&style=flat-square&color=00D4FF)
+
+*⚡ Building things that work in the real world*
+
+</div>

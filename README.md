@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Flutter+%7C+Firebase+%7C+IoT+%7C+REST+APIs;App+Developer+Intern+%40+Atomberg+Technologies;BLE+Integration+%7C+Real-time+Sync+%7C+Production+Apps;Top+10+%40+AtomQuest+2025+out+of+1600%2B+teams+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Flutter+%7C+Firebase+%7C+IoT+%7C+APIs;App+Developer+Intern+%40+Atomberg+Technologies;BLE+Integration+%7C+Real-time+Sync+%7C+Production+Apps;Top+10+%40+AtomQuest+2025+out+of+1600%2B+teams+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
